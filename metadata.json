@@ -1,0 +1,6 @@
+{
+  "name": "Digital Rankup – Ads Runner & Digital Marketing Agency",
+  "description": "Complete advertising agency platform for running, managing, and scaling customer campaigns across Meta, Google, TikTok, and YouTube with JazzCash payments, real-time analytics, and role-based portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
